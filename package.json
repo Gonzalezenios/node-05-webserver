@@ -1,0 +1,24 @@
+{
+  "name": "05-webserver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npx nodemon index",
+    "start": "node index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gonzalezenios/node-05-webserver.git"
+  },
+  "author": "Enio Gonzalez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gonzalezenios/node-05-webserver/issues"
+  },
+  "homepage": "https://github.com/Gonzalezenios/node-05-webserver#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
